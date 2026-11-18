@@ -62,7 +62,7 @@ company-sites/
 
 ```bash
 # リポジトリをクローンしてディレクトリに移動
-cd company-sites
+cd multi-company-website
 
 # 依存パッケージをインストール
 npm install
