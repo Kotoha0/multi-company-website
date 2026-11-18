@@ -1,0 +1,95 @@
+{
+  "note": "有償トライアル用の完全な架空データ。実在企業・顧客情報は含みません。",
+  "companies": [
+    {
+      "id": "sampletech",
+      "name": "SampleTech",
+      "industry": "ITコンサルティング",
+      "theme": {
+        "primary": "#1769d2",
+        "accent": "#e8f2ff",
+        "text": "#17324d",
+        "background": "#ffffff"
+      },
+      "navigation": [
+        { "label": "ホーム", "href": "#home" },
+        { "label": "サービス", "href": "#services" },
+        { "label": "会社情報", "href": "#about" },
+        { "label": "お問い合わせ", "href": "#contact" }
+      ],
+      "hero": {
+        "headline": "テクノロジーで\nビジネスの成長を支援する",
+        "description": "中小企業のDX推進を、企画から開発までトータルでサポート",
+        "buttonLabel": "サービスを見る",
+        "buttonHref": "#services"
+      },
+      "services": [
+        {
+          "title": "業務改善コンサルティング",
+          "description": "業務の効率化を支援します"
+        },
+        {
+          "title": "システム開発",
+          "description": "業務に合わせたシステムを開発"
+        },
+        {
+          "title": "DX支援",
+          "description": "デジタル化による成長を支援"
+        }
+      ],
+      "contact": {
+        "heading": "お気軽にご相談ください",
+        "email": "contact@sampletech.example",
+        "buttonLabel": "お問い合わせ"
+      },
+      "footer": {
+        "copyright": "© 2026 SampleTech (fictional)"
+      }
+    },
+    {
+      "id": "yasuragi-cafe",
+      "name": "やすらぎカフェ",
+      "industry": "カフェ・飲食店",
+      "theme": {
+        "primary": "#7a4a22",
+        "accent": "#f6e6cc",
+        "text": "#48372b",
+        "background": "#fff7ea"
+      },
+      "navigation": [
+        { "label": "ホーム", "href": "#home" },
+        { "label": "メニュー", "href": "#services" },
+        { "label": "店舗情報", "href": "#about" },
+        { "label": "お問い合わせ", "href": "#contact" }
+      ],
+      "hero": {
+        "headline": "日常に、\nやすらぎのひとときを",
+        "description": "こだわりのコーヒーと手作りのスイーツで、心地よい時間をお過ごしください",
+        "buttonLabel": "メニューを見る",
+        "buttonHref": "#services"
+      },
+      "services": [
+        {
+          "title": "スペシャルティコーヒー",
+          "description": "厳選した豆を使用"
+        },
+        {
+          "title": "手作りスイーツ",
+          "description": "季節の素材を使ったケーキ"
+        },
+        {
+          "title": "ランチセット",
+          "description": "こだわりの食材を使用"
+        }
+      ],
+      "contact": {
+        "heading": "ご質問はこちら",
+        "email": "hello@yasuragi-cafe.example",
+        "buttonLabel": "お問い合わせ"
+      },
+      "footer": {
+        "copyright": "© 2026 やすらぎカフェ (fictional)"
+      }
+    }
+  ]
+}
